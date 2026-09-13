@@ -1,0 +1,6 @@
+{
+  "name": "Xe Currency Converter & Global Transfers",
+  "description": "Global currency conversions, live mid-market exchange rates, international money transfers, and FX tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
